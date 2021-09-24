@@ -1,6 +1,6 @@
 # Boston House Price Prediction
 ## Task:
-Predict the House prices (MEDV) based on given features
+Predict the House prices (MEDV) based on given features/n
 	Please do all the EDA and Preprocessing you think can apply.
 	Write the observations below the cells you think to add.
 	Give all error scores. 
